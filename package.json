@@ -5,8 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha -R spec test",
-    "lint": "eslint lib/**/*.js",
-    "commit": "commit"
+    "lint": "eslint lib/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -35,9 +34,8 @@
     "winston": "~3.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "~8.1.0",
-    "@commitlint/config-conventional": "~8.1.0",
-    "@commitlint/prompt-cli": "~8.1.0",
+    "@commitlint/cli": "~8.3.4",
+    "@commitlint/config-conventional": "~8.3.4",
     "chai": "latest",
     "eslint": "~6.1.0",
     "eslint-config-airbnb-base": "~14.0.0",
