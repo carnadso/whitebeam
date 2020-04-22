@@ -40,13 +40,13 @@
   "devDependencies": {
     "@commitlint/cli": "~8.3.4",
     "@commitlint/config-conventional": "~8.3.4",
-    "@release-it/conventional-changelog": "^1.1.0",
+    "@release-it/conventional-changelog": "~1.1.0",
     "chai": "latest",
-    "eslint": "~6.1.0",
-    "eslint-config-airbnb-base": "~14.0.0",
-    "eslint-plugin-import": "~2.18.2",
+    "eslint": "~6.8.0",
+    "eslint-config-airbnb-base": "~14.1.0",
+    "eslint-plugin-import": "~2.20.2",
     "husky": "~3.0.3",
     "lint-staged": "~9.2.1",
-    "mocha": "latest"
+    "mocha": "~7.1.1"
   }
 }
